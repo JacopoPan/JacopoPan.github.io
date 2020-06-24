@@ -4,7 +4,7 @@ Jacopo holds a Ph.D. degree in computer engineering from Polytechnique Montréal
 
 ## Current Projects
 
-Cooming soon
+- Cooming soon
 
 ## Former Projects
 
@@ -97,9 +97,9 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 
-[A second page](https://jacopopan.github.io/a-second-page)
+[A second page](https://jacopopan.github.io/second-page)
 ```
-[A second page](https://jacopopan.github.io/a-second-page)
+[A second page](https://jacopopan.github.io/second-page)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
