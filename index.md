@@ -1,4 +1,8 @@
-## Jacopo Panerati's Short Bio
+# Jacopo Panerati
+
+---
+
+## Short Bio
 
 Jacopo holds a Ph.D. degree in computer engineering from Polytechnique Montréal (Montréal, QC, Canada). He received the M.Sc. degree in computer science from the University of Illinois at Chicago (Chicago, IL) in 2012, the Laurea Triennale degree in computer engineering from Politecnico di Milano (Milan, Italy) in 2009, and the Laurea Specialistica degree in computer engineering again from Politecnico di Milano (Milan, Italy) in 2011. In 2015, He was a visiting researcher at the National Institute of Informatics (Tokyo, Japan) and he attended the International Space University (ISU)'s Summer Study Program hosted by Ohio University (Athens, OH). In 2017, he served as a teaching associate for ISU at the Cork Institute of Technology (Cork, Ireland). In 2019, he was a visiting postdoctoral fellow at the European Astronaut Centre (Köln, Germany). Jacopo currently conducts post doctoral research at the University of Cambridge's Department of Computer Science and Technology. Jacopo's research interests include multi-robot systems, machine learning, probabilistic graphical models, artificial intelligence, human-robot interaction, real-time and embedded systems.
 
