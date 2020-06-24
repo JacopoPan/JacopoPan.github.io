@@ -1,2 +1,2 @@
 # JacopoPan.github.io
-Personal website draft
+Simple personal website
