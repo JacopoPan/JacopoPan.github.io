@@ -99,7 +99,6 @@ Syntax highlighted code block
 
 [A second page](https://jacopopan.github.io/second-page)
 ```
-[A second page](https://jacopopan.github.io/second-page)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
